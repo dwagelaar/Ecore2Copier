@@ -1,3 +1,4 @@
 *.emftvm
 /EcoreCopy.atl
 /UmlCopy.atl
+/EcoreLazyCopy.atl
